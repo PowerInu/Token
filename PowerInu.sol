@@ -13,11 +13,7 @@
                                                                                      
                                                                                      
 
-// Telegram:   https://tg.powerinu.net
-// Discord:    https://discord.powerinu.net
-// Twitter:    https://twitter.powerinu.net
-// Youtube:    https://youtube.powerinu.net
-// Website:    https://powerinu.net
+
 
 // SPDX-License-Identifier: UNLICENSED
 
